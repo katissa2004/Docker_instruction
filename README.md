@@ -42,3 +42,10 @@ Verify that the Docker Engine installation is successful by running the hello-wo
 sudo docker run hello-world
 
 <img src="6th.png" width="" height=""/>
+
+2. So, let's run a container. (As we haven't add a user to group, we have to write sudo or go to sudo mode using "sudo -i"):
+
+sudo -i
+docker run -d -p 80:80 docker/getting-started
+
+<img src="7th.png" width="" height=""/>
