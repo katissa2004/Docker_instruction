@@ -7,7 +7,6 @@ Update the apt package index and install packages to allow apt to use a reposito
     ca-certificates \
     curl \
     gnupg \
-    lsb-release
-    ![][logo]
-    [logo]: https://github.com/katissa2004/Docker_instruction/blob/main/Screenshot%20at%202023-03-05%2018-40-13.png "Logo text"
-   
+
+    
+<img src="Screenshot at 2023-03-05 18-40-13.png" width="200" height="50"/>
