@@ -9,4 +9,4 @@ Update the apt package index and install packages to allow apt to use a reposito
     gnupg \
 
     
-<img src="Screenshot at 2023-03-05 18-40-13.png" width="200" height="50"/>
+<img src="1st.png" width="" height=""/>
