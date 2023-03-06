@@ -49,3 +49,7 @@ sudo -i
 docker run -d -p 80:80 docker/getting-started
 
 <img src="7th.png" width="" height=""/>
+
+3. Finally, go to the localhost:
+
+<img src="8th.png" width="" height=""/>
