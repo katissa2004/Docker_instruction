@@ -24,3 +24,9 @@ echo \
   $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
   
 <img src="3rd.png" width="" height=""/>
+
+Update the apt package index:
+
+sudo apt-get update
+
+<img src="4th.png" width="" height=""/>
