@@ -53,3 +53,7 @@ docker run -d -p 80:80 docker/getting-started
 3. Finally, go to the localhost:
 
 <img src="8th.png" width="" height=""/>
+
+4. Here is an instruction for downloading Docker Desktop. I've done it:
+
+<img src="9th.png" width="" height=""/>
