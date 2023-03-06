@@ -69,3 +69,7 @@ sudo docker images
 sudo docker ps
 
 <img src="11th.png" width="" height=""/>
+
+To stop the container, type "sudo docker stop <container_NAME> (you can get name running "sudo docker ps"). Then the status of containers can be seen with "sudo docker ps -a":
+
+<img src="12th.png" width="" height=""/>
