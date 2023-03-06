@@ -57,3 +57,9 @@ docker run -d -p 80:80 docker/getting-started
 4. Here is an instruction for downloading Docker Desktop. I've done it:
 
 <img src="9th.png" width="" height=""/>
+
+5. Useful commands:
+
+sudo docker images
+
+<img src="10th.png" width="" height=""/>
