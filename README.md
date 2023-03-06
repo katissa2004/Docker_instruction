@@ -30,3 +30,9 @@ Update the apt package index:
 sudo apt-get update
 
 <img src="4th.png" width="" height=""/>
+
+To install the latest version, run:
+
+sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+
+<img src="5th.png" width="" height=""/>
