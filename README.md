@@ -63,3 +63,8 @@ docker run -d -p 80:80 docker/getting-started
 sudo docker images
 
 <img src="10th.png" width="" height=""/>
+
+sudo docker ps
+
+
+<img src="11th.png" width="" height=""/>
