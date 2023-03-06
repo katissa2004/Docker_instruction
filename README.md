@@ -8,6 +8,6 @@ Update the apt package index and install packages to allow apt to use a reposito
     curl \
     gnupg \
     lsb-release
-    
-    ![Image text](https://github.com/katissa2004/Docker_instruction/blob/main/Screenshot%20at%202023-03-05%2018-40-13.png)
+    ![][logo]
+    [logo]: https://github.com/katissa2004/Docker_instruction/blob/main/Screenshot%20at%202023-03-05%2018-40-13.png "Logo text"
    
